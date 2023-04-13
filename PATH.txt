@@ -1,0 +1,12 @@
+HADOOP_HOME
+C:\winutils
+
+JAVA_HOME
+C:\Users\Ramin\Java1
+
+SPARK_HOME
+C:\Users\Ramin\spark\spark-3.3.2-bin-hadoop3
+
+%HADOOP_HOME%\bin
+%SPARK_HOME%\bin
+%JAVA_HOME%\bin
